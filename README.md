@@ -1,4 +1,4 @@
-# 🎲 Advanced Dice Roller
+# 🎲 Dice Roller 2
 
 An interactive and fun dice simulator built with **HTML**, **Tailwind CSS** and **JavaScript**. Roll two dice, see the total, count rolls, and track your last 5 results all in a sleek, responsive design.
 
